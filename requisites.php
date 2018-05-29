@@ -3,7 +3,7 @@
 $main_name =  "vivastudent.ru";
 $email2 =  "vivastudru@gmail.com";
 
-$url_town_piter = 'http://'.$main_name.'/';//'https://'.$main_name.'/';
+$url_town_piter = 'https://'.$main_name.'/';
 $url_town_moscow = 'http://moscow.'.$main_name.'/';
 $url_town_kazan = 'http://kazan.'.$main_name.'/';
 $url_town_novosibirsk = 'http://novosibirsk.'.$main_name.'/';
@@ -14,6 +14,7 @@ $site_phone = '8 (800) 411-32-26';
 
 $img_path_1 = "./index_files/1_logo_55(2).png";
 $img_path_2 = "1_logo_55(2).png";
+$img_path_magdis = "./index_files/plan-magistr.jpg";
 //$img_path_1 = "./index_files/1_logo.jpg";
 //$img_path_2 = "1_logo.jpg";
 //$img_path_1 = "./index_files/diplomfabrika.png";
