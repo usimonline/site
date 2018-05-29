@@ -1,7 +1,7 @@
 <?php session_start();
 ?>
-<meta name="yandex-verification" content="a9f7b67e934cff6b" />
 <meta name="google-site-verification" content="aTJbuVk0jjvJDkmMj6BANyjyy2HawMWYcwN6edRT8jc" />
+<meta name="yandex-verification" content="83ec418dc36bbc7f" />
 
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 <script src="js/jquery-1.3.2.min.js"></script>
