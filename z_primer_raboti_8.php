@@ -3,7 +3,7 @@
 require("requisites.php");
 $count_text = 8;
 ?>
-<html>
+<html lang="ru">
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
@@ -48,10 +48,11 @@ $count_text = 8;
 	}
 	?>
 
-	<title>Смотреть пример <?php echo $name_rab_text." № ".$count_text." от образовательного центра ".$site_name; ?></title>
+	<title>Пример готовой дипломной работы по математике от рефератной компании "<?php echo $site_name;?>"</title>
 
-	<meta name="description" content="Смотреть пример <?php echo $name_rab_text." № ".$count_text." от образовательного центра ".$site_name; ?>">
-	<meta name="keywords" content="Смотреть пример <?php echo $name_rab_text; ?>">
+	<meta name="description" content="Мы предлагаем вам помотреть пример готовой дипломной работы от нашей компании <?php echo $site_name;?>.
+	Типичный пример математике позволит вам оценить квалификацию наших мастеров пера, заказывайте работы у нас!">
+	<meta name="keywords" content="Пример готовой дипломной работы математике">
 
 	<?php
 	require("head_1.php");
@@ -67,7 +68,7 @@ require("header.php");
 		?>
 		<div>
 			<!-- section of script -->
-			<h1>Смотреть пример <?php echo $name_rab_text." № ".$count_text." от центра ".$site_name; ?></h1>
+			<h1>Пример готовой дипломной работы математике учету от рефератной компании "<?php echo $site_name;?>"</h1>
 			<?php
 			$f = fopen("texts/new_" . $count_text, "r");
 			$col_simv = 0;

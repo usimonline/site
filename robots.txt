@@ -7,7 +7,6 @@ Disallow: /5.php
 Disallow: /6.php
 Disallow: /all.php
 Disallow: /dogovor.php
-Disallow: /order.php
 Disallow: /articles.php
 Disallow: /Diplomnaia-rabota-skolko-trebuetsia-vremeni-dlia-napisaniia.php
 Disallow: /Kak-delat-plan-diplomnoi-raboty.php

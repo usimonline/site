@@ -1,7 +1,7 @@
 
 <section class="payment">
     <!--noindex-->
-    <div>Оплата заказа возможна <br><a href="oplata.php" rel="nofollow">наличными в офисах центра</a>, другие варианты:</div>
+    <div><h4>Оплатить заказ можно <br><a href="oplata.php" rel="nofollow">наличными в офисе</a>, иные варианты:</h4></div>
     <!--/noindex-->
     
 

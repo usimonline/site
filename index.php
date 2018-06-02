@@ -10,10 +10,10 @@ $count_text = 31;
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
-<title>Заказ выпускной работы</title>
-<meta name="description" content="Компания <?php echo $site_name; ?> может предложить каждому студенту курсовые, дипломные и
-магистерские без авансов в короткие сроки. Наши менеджеры ждут вашу заявку на дипломную работу.">
-<meta name="keywords" content="заказ дипломной работы">
+<title>Дипломная работа онлайн срочно и дешево в компаниии <?php echo $site_name; ?></title>
+<meta name="description" content="Дипломная работа за 5000 рублей в компании <?php echo $site_name; ?>. Этим летом
+2018 года еще больше скидок и акций: внеси полную предоплату и получи работу онлайн со скидкой 20%.">
+<meta name="keywords" content="дипломная работа онлайн">
 
 
 	<?php
@@ -29,31 +29,31 @@ $count_text = 31;
 	<section class="leather" style="background-image: url(/img/leather1.jpg);">
 
 		<div class="big"><label onclick="document.getElementById(&#39;shorttext&#39;).className=document.getElementById(&#39;shorttext&#39;).className==&#39;hidden&#39;?&#39;showed&#39;:&#39;hidden&#39;; document.getElementById(&#39;arr1&#39;).src=document.getElementById(&#39;arr1&#39;).getAttribute(&#39;src&#39;)==&#39;index_files/arr1.png&#39;?&#39;index_files/arr2.png&#39;:&#39;index_files/arr1.png&#39;;">
-				Заказ выпускной работы</label><br><img id="arr1" class="desaturated" src="./index_files/arr1.png" width="64" height="9" alt="" onclick="document.getElementById(&#39;shorttext&#39;).className=document.getElementById(&#39;shorttext&#39;).className==&#39;hidden&#39;?&#39;showed&#39;:&#39;hidden&#39;; this.src=this.getAttribute(&#39;src&#39;)==&#39;index_files/arr1.png&#39;?&#39;index_files/arr2.png&#39;:&#39;index_files/arr1.png&#39;;"></div>
-		<div id="shorttext" class="hidden"><h1>Сделаем выпускную работу со скидкой от 20%, не потребуем деньги вперед!</h1>
-<div class="dashedborder">Наша компания <?php echo $site_name; ?> гарантирует, что сроки будут строго соблюдены.</div>
-<div class="dashedborder">Сначала специалисты составят план вашей выпускной работы.
-	За это мы даже не возьмем предоплату. Но выгоднее всего внести полную предоплату, чтобы снизить стоимость на 20%!
-	Текст выпускной будет оформлен по ГОСТ и вашей методичке.</div>
-			<div class="dashedborder">У нас в компании работы выполняют не менее 56 кандидатов и 25 докторов.</div>
+				Дипломная работа онлайн</label><br><img id="arr1" class="desaturated" src="./index_files/arr1.png" width="64" height="9" alt="" onclick="document.getElementById(&#39;shorttext&#39;).className=document.getElementById(&#39;shorttext&#39;).className==&#39;hidden&#39;?&#39;showed&#39;:&#39;hidden&#39;; this.src=this.getAttribute(&#39;src&#39;)==&#39;index_files/arr1.png&#39;?&#39;index_files/arr2.png&#39;:&#39;index_files/arr1.png&#39;;"></div>
+		<div id="shorttext" class="hidden"><h1>Дипломная работа онлайн со скидкой от 20%, не требуем деньги вперед!</h1>
+<div class="dashedborder">Наш образовательный центр <?php echo $site_name; ?> летом 2018 предлагает заказать онлайн без предоплаты.</div>
+<div class="dashedborder">Наши авторы имеют кандидатские степени, преподают в университетах, написали
+	сотни выпускных работ для гуманитариев и технарей.</div>
+			<div class="dashedborder">Мы предлагаем авторов из вузов РФ, уникальность 90-100%, проверку отделом контроля качества ошибок, содержания,
+				строгое соблюдение сроков, официальные отношения по договору оферты.</div>
 			<div class="dashedborder">При полной предоплате работы мы дарим презентацию.</div>
-			<div class="dashedborder">Список предметов, по которым наши авторы пишут выпускные работы,
-				велик. Это и технические, и гуманитарные дисцилины.<br>
-				Сделаем выпускную работу по вашей организации или компании.</div>
+			<div class="dashedborder">Каждый наш клиент останется доволен, потому что мы выбираем только опытных авторов из лучших вузов России и стран СНГ. <br>
+				Мы следим за соблюдением сроков, проверяем плагиат работ в восьми системах АП, от etxt до руконт.</div>
 			<div class="dashedborder">Наша компания <?php echo $site_name; ?> уже долгое время выполняет
-				выпускные работы, поэтому мы на 99,5% гарантируем успех защиты. Все остальное зависит уже от вас самих.<br>
-				Мы выполним отличную выпускную работу. Ждем вас в наших офисах с 9 до 19 часов. Используйте форму заказа на сайте в любое время.</div></div>
+				выпускные работы, поэтому мы на 99,5% гарантируем успех защиты. У нас конкурентные цены, потому что
+				мы экономим на телефонных менеджерах.</div>
+			<div class="dashedborder">Если случится так, что автор не сделает работу в срок - мы вернем все внесенные вами средства! Используйте форму заказа на сайте в любое время.</div></div>
 
 		<menu class="advantages">
-			<span class="except"><b>Наши преимущества:</b></span>
+			<span class="except"><b>Наши гарантии:</b></span>
 
 
-			<span class=""><label onclick="changeSliderFrame(&#39;slider1&#39;,1);">Антиплагиат</label></span>
-			<span class=""><label onclick="changeSliderFrame(&#39;slider1&#39;,2);">Качество</label></span>
-			<span class="active"><label onclick="changeSliderFrame(&#39;slider1&#39;,3);">Оперативность</label></span><wbr>
-			<span class=""><label onclick="changeSliderFrame(&#39;slider1&#39;,4);">Готовые кейсы</label></span>
-			<span class=""><label onclick="changeSliderFrame(&#39;slider1&#39;,5);">Гарантия</label></span>
-			<span class=""><label onclick="changeSliderFrame(&#39;slider1&#39;,6);">Договор</label></span>
+			<span class=""><label onclick="changeSliderFrame(&#39;slider1&#39;,1);">Уникальность</label></span>
+			<span class=""><label onclick="changeSliderFrame(&#39;slider1&#39;,2);">Нет ошибкам</label></span>
+			<span class="active"><label onclick="changeSliderFrame(&#39;slider1&#39;,3);">Сроки</label></span><wbr>
+			<span class=""><label onclick="changeSliderFrame(&#39;slider1&#39;,4);">Договор</label></span>
+			<span class=""><label onclick="changeSliderFrame(&#39;slider1&#39;,5);">Доработки</label></span>
+			<span class=""><label onclick="changeSliderFrame(&#39;slider1&#39;,6);">Регистрация в России</label></span>
 
 		</menu>
 		<section class="slider" id="slider1" data-frames="#slider1 &gt; div &gt; div" data-delay="10000">
@@ -62,21 +62,21 @@ $count_text = 31;
 
 				<div style="opacity: 0; z-index: 0; background: url(index_files/slider1.jpg) left center no-repeat;">
 					<div style="width: 480px;"></div>
-					<div><br><h3>Вашу работу выполняют лучшие профессионалы</h3><h3>В работах нет плагиата из Интернета</h3></div>
+					<div><br><h3>Проверяем в системах etxt, antiplagiat, advego, text.</h3><h3>Внутренние системы проверки МГИМО и МГУ.</h3></div>
 				</div>
 				<div style="background: url(index_files/slider2.jpg) right top no-repeat; z-index: 1; opacity: 0;">
-					<div><br><h3>Выполнение всех требований и инструкций</h3><h3>Большинство сдаёт на «отлично»</h3></div>
+					<div><br><h3>Выполняем по методичке клиента и ГОСТ.</h3><h3>Проверяет отдел Контроля Качества.</h3></div>
 				</div><div style="background: url(index_files/slider3.jpg) left top no-repeat; z-index: 2; opacity: 1;">
 					<div style="width: 329px;"></div>
-					<div><br><h3>Все работы — точно в срок</h3></div>
+					<div><br><h3>Сделаем в срок или сделаем бесплатно.</h3></div>
 				</div><div style="background: url(index_files/slider4.jpg) right top no-repeat; z-index: 0;">
-					<div><br><h3><a href="gotovie_keisy.php">Индивидуальный подход к каждому клиенту</a></h3></div>
+					<div><br><h3><a href="dogovor.php" rel="nofollow">Официальный договор оферты и опытные менеджеры.</a></h3></div>
 					<div style="width: 433px;"></div>
 				</div><div style="background: url(index_files/slider5.jpg) left top no-repeat; z-index: 0;">
 					<div style="width: 329px;"></div>
-					<div><br><h3>Бесплатные доработки</h3><h3>Конфиденциальность гарантирована</h3></div>
+					<div><br><h3>Все корректровки бесплатные.</h3><h3>О вас никто не узнает.</h3></div>
 				</div><div style="background: url(index_files/slider6.jpg) right top no-repeat; z-index: 0;">
-					<div><br><h3>При оформлении заказа составляется договор и бланк заказа</h3><h3>Мы являемся официально зарегистрированной организацией</h3></div>
+					<div><br><h3>Мы работаем в России официально.</h3><h3>У нас есть офис в Санкт-Петербурге.</h3></div>
 					<div style="width: 354px;"></div>
 				</div>
 			</div>
@@ -101,7 +101,7 @@ $count_text = 31;
 		</section>
 	<!--/noindex-->
 
-	<section class="offers"><div><a href="aktcii_i_skidki.php"><img src="./index_files/offer1.gif" width="805" height="189" alt=""></a></div></section>
+	<section class="offers"><div><a href="aktcii_i_skidki.php" rel="nofollow"><img src="./index_files/offer1.gif" width="805" height="189" alt=""></a></div></section>
 	
 	<?php
 	require("responses.php");

@@ -15,6 +15,12 @@ $site_phone = '8 (800) 411-32-26';
 $img_path_1 = "./index_files/1_logo_55(2).png";
 $img_path_2 = "1_logo_55(2).png";
 $img_path_magdis = "./index_files/plan-magistr.jpg";
+$img_path_o_kompanii = "./index_files/img_path_o_kompanii.png";
+$img_path_uslugi_i_ceny = "./index_files/1326218221_diplom-na-zakaz.jpg";
+$img_path_poriadok_zakaza = "./index_files/kak-napisat-rezyume-k-diplomu.jpg";
+$img_path_primeri_rabot = "./index_files/garantii2-e1508117903879.jpg";
+$img_path_primeri_rabot_page_stand = "./index_files/pic4215.jpg";//не работает
+
 //$img_path_1 = "./index_files/1_logo.jpg";
 //$img_path_2 = "1_logo.jpg";
 //$img_path_1 = "./index_files/diplomfabrika.png";
@@ -24,9 +30,9 @@ $date_site = date_create('2018-05-28');
 
 
 $site_otzv_name_1 = "Студенческие работы";
-$site_otzv_url_1 = "http://bazaznanij.com/1001-diplomfabrika_ru.html";
+$site_otzv_url_1 = "http://knowbaza.ru/1001-vivastudent_ru.html";
 $site_otzv_name_2 = "Студенческие отзывы";
-$site_otzv_url_2 = "http://otzyv.hol.es/raiting/74/diplomfabrika/";
+$site_otzv_url_2 = "http://otzyv.hol.es/raiting/74/vivastudent/";
 
 
 $site_name = 'Vivastudent.ru';
